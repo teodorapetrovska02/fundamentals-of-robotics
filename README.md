@@ -33,8 +33,11 @@ The `notebooks/` directory contains solved exercises organized by topic.
 ## Course
 
 **Robotics 1**
+
 **Course code:** 3ФЕИТ01Л018
+
 **Faculty:** Faculty of Electrical Engineering and Information Technologies (FEEIT)
+
 **University:** Ss. Cyril and Methodius University in Skopje
 
 > These exercises were completed as part of my preparation for the Robotics 1 exams.
